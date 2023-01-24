@@ -1,1 +1,1 @@
-<h1 align = 'center'>Progress Steps</h1>
+<h1 align = 'center'>Etapas de Progresso</h1>
